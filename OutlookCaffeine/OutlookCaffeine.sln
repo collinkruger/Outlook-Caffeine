@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookCaffeine", "OutlookCaffeine.csproj", "{ACEF03FF-C2F5-4B49-8195-BDF8AAAB48C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{909C1A59-54C6-4918-8BE3-94F4085C4D59}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACEF03FF-C2F5-4B49-8195-BDF8AAAB48C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACEF03FF-C2F5-4B49-8195-BDF8AAAB48C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACEF03FF-C2F5-4B49-8195-BDF8AAAB48C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACEF03FF-C2F5-4B49-8195-BDF8AAAB48C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
